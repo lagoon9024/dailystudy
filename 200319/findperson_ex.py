@@ -1,8 +1,9 @@
-pit.rcParams["figure.figsize"] = (1,1)
 import cv2, os
 import face_recognition as fr
 from IPython.display import Image, display
 from matplotlib import pyplot as pit
+
+pit.rcParams["figure.figsize"] = (1,1)
 
 # 이미지 파일을 로드하여 list 생성
 person_list = []
