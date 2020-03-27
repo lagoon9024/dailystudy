@@ -8,3 +8,5 @@ daily study about programming :)
 - [0321 :: about Docker](/200321/0321.md)
 - [0322 :: JSTL](/200322/0322.md)
 - [0324 :: Maven](/200324/0324.md)
+- [0327 :: try-with-resources(JAVA)](/200327/0327.md)
+  - AI 프로젝트 과제한다고 python하느라 3일만에 업뎃... 반성반성
