@@ -11,3 +11,4 @@ daily study about programming :)
 - [0327 :: try-with-resources(JAVA)](/200327/0327.md)
   - AI 프로젝트 과제한다고 python하느라 3일만에 업뎃... 반성반성
 - [0330 :: CNN(Convolution Neural Network) part1](/200330/0330.md)
+- [0331 :: CNN(Convolution Neural Network) part2](/200331/0331.md)
