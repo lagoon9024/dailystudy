@@ -12,3 +12,4 @@ daily study about programming :)
   - AI 프로젝트 과제한다고 python하느라 3일만에 업뎃... 반성반성
 - [0330 :: CNN(Convolution Neural Network) part1](/200330/0330.md)
 - [0331 :: CNN(Convolution Neural Network) part2](/200331/0331.md)
+- [0403 :: tensorflow와 keras를 활용한 convolution 실습](/200403/0403.md)
