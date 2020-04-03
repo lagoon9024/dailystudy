@@ -51,7 +51,7 @@ conv2d = keras.layers.Conv2D(filters=3, kernel_size=2, padding='same', kernel_in
 #filter count, filter_size, zero-padding
 
 print("conv2d.shape", conv2d.shape)
-feature_maps=np.swapaxes(conv2d,0,3)
+feature_maps=np.swapaxes(conv2d,0,3) # 3channel 적용 결과를 출력하기 위해 27개 결과를 9개 단위로 나눔
 for i, feature_map in enumerate(feature_maps):
     print(feature_map.reshape(3,3))
     plt.subplot(1,3,i+1)
