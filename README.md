@@ -14,3 +14,5 @@ daily study about programming :)
 - [0331 :: CNN(Convolution Neural Network) part2](/200331/0331.md)
 - [0403 :: tensorflow와 keras를 활용한 convolution 실습](/200403/0403.md)
 - [0404 :: CNN 네트워크 구성 실습(MNIST데이터 활용)](/200404/0404.md)
+- [0405 :: AI 관련 용어 정리](/200405/0405.md)
+  - Spring Framework 빨리 공부해야되는데 ㅠㅠㅠ
