@@ -17,3 +17,4 @@ daily study about programming :)
 - [0405 :: AI 관련 용어 정리](/200405/0405.md)
   - Spring Framework 빨리 공부해야되는데 ㅠㅠㅠ
 - [0407 :: Tensorflow GPU 사용 환경 설정](/200407/0407.md)
+- [0414 :: 코테준비 겸 SQL Query 연습](/200414/0414.md)
