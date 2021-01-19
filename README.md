@@ -18,3 +18,10 @@ daily study about programming :)
   - Spring Framework 빨리 공부해야되는데 ㅠㅠㅠ
 - [0407 :: Tensorflow GPU 사용 환경 설정](/200407/0407.md)
 - [0414 :: 코테준비 겸 SQL Query 연습](/200414/0414.md)
+
+# AWS Study
+- https://gist.github.com/serithemage/9993400aa483c95ade954a1e36b1004b
+- http://quizeey.com/test?testId=1
+- https://www.44bits.io/ko/post/aws-certification-solutions-architect-associate
+- https://goddaehee.tistory.com/194
+- https://brunch.co.kr/@topasvga/391
